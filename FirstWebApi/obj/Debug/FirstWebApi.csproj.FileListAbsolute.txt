@@ -79,7 +79,6 @@ D:\Gökhan\Visual Studio 2017\Projects\FirstWebApi\FirstWebApi\bin\Antlr3.Runtim
 D:\Gökhan\Visual Studio 2017\Projects\FirstWebApi\FirstWebApi\bin\System.Diagnostics.DiagnosticSource.xml
 D:\Gökhan\Visual Studio 2017\Projects\FirstWebApi\FirstWebApi\bin\Microsoft.AspNet.TelemetryCorrelation.xml
 D:\Gökhan\Visual Studio 2017\Projects\FirstWebApi\FirstWebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-D:\Gökhan\Visual Studio 2017\Projects\FirstWebApi\FirstWebApi\obj\Debug\FirstWebApi.csprojAssemblyReference.cache
 D:\Gökhan\Visual Studio 2017\Projects\FirstWebApi\FirstWebApi\obj\Debug\FirstWebApi.csproj.CoreCompileInputs.cache
 D:\Gökhan\Visual Studio 2017\Projects\FirstWebApi\FirstWebApi\obj\Debug\FirstWebApi.csproj.CopyComplete
 D:\Gökhan\Visual Studio 2017\Projects\FirstWebApi\FirstWebApi\obj\Debug\FirstWebApi.dll
